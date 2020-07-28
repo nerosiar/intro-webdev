@@ -1085,7 +1085,11 @@ async function formSubmitted(event) {
 ---
 
 # RECAP
-
+before finally we gonna upload our projects (front) on the web
+with one of the above techniques :
+https://surge.sh/
+now.sh
+or github pages (best for simple pages) github.io
 ---
 
 ### Thanks!
