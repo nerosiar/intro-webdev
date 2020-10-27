@@ -81,7 +81,7 @@ revealOptions:
 # How the Web Works
 
 ----
-<h2>Less like this...</h2>
+## Less like this...
 
 
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/167545/images/1645293/hackers.jpg" class="lg-img">
