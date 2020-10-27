@@ -9,7 +9,7 @@
     "pdf": "reveal-md  --theme night --highlightTheme hybrid --css styles.css README.md --print slides.pdf"
   },
   "keywords": [],
-  "author": "",
+  "author": "nerosiar",
   "license": "ISC",
   "dependencies": {
     "reveal-md": "^3.4.7"
