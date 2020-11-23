@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "nerosiar",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "reveal-md": "^3.4.7"
   }
